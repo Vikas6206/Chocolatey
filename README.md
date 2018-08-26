@@ -11,6 +11,18 @@ Copy and paste the chocolatey command in command prompt.Make sure the command pr
 
 NOTE:- You can't provide any kind of XML comments in the config files. Also, note that the only sofware whose packages are there in the chocolatey can be installed.
 
+3]In this project, package.config contains the list of software which needs to be installed on your machine.
+Download this project and Open command prompt & navigate to the directory where the config file is present. Type the following command to install the softwares present in the config files.
+
+    choco install package.config -y
+    
+  Here "-y" is used to install the 
+  
+Syntax to install the softwares via config files:
+
+ choco install <path of the config file> <optional parameters>
+  
+  
 
 
 
