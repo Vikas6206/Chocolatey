@@ -9,6 +9,8 @@ Copy and paste the chocolatey command in command prompt.Make sure the command pr
 
 2] Now create a config file. For example package.config. This config file contains the XML which is used to pass the software name along with the version name (this is optional) & other parameters (which are also optional).
 
+NOTE:- You can't provide any kind of XML comments in the config files. Also, note that the only sofware whose packages are there in the chocolatey can be installed.
+
 
 
 
