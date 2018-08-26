@@ -18,7 +18,7 @@ Download this project and Open command prompt & navigate to the directory where 
 
     choco install package.config -y
     
-  Here "-y" is used to bypass the installation prompts (Ex:- Are you sure you want to install this software ? [Y]es [N]o
+  Here "-y" is used to bypass the installation prompts (Ex:- Are you sure you want to install this software ? [Y]es [N]o)
   
 Syntax to install the softwares via config files:
 
