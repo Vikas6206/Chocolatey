@@ -22,7 +22,7 @@ Download this project and Open command prompt & navigate to the directory where 
   
 Syntax to install the softwares via config files:
 
- choco install <path of the config file> <optional parameters>
+ choco install "<path of the config file>" "<optional parameters>"
   
   
 
