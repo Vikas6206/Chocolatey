@@ -1,5 +1,5 @@
 # Chocolatey
-How to use multiple software's at once via chocolatey ?
+How to install multiple software's at once via chocolatey ?
 
 1] Navigate to chocolatey site and and copy the chocolatey installation commands:
 
